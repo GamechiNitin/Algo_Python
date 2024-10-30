@@ -1,0 +1,34 @@
+{
+    "stocks": [
+        {
+            "Ticker": "AAL",
+            "latestPrice": 18.50,
+            "marketCap": 11600000000,
+            "volume": 25000000
+        },
+        {
+            "Ticker": "AAP",
+            "latestPrice": 190.75,
+            "marketCap": 1300000000,
+            "volume": 500000
+        },
+        {
+            "Ticker": "AAPL",
+            "latestPrice": 175.30,
+            "marketCap": 2800000000000,
+            "volume": 80000000
+        },
+        {
+            "Ticker": "ABBV",
+            "latestPrice": 150.00,
+            "marketCap": 250000000000,
+            "volume": 3500000
+        },
+        {
+            "Ticker": "ABC",
+            "latestPrice": 135.20,
+            "marketCap": 18000000000,
+            "volume": 1500000
+        }
+    ]
+}
